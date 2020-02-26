@@ -1,4 +1,8 @@
 ##############################
-#       STRATEGY             #
+#         STRATEGY           #
 ##############################
 
+- We use interfaces to use polymorphism in our doing.
+
+- We broke the use of several 'ifs', with that we can invoke a method that according to its 
+instance it can call a method implemented differently than another instance.
