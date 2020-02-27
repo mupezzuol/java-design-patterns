@@ -1,0 +1,28 @@
+##############################
+#      Template Method       #
+##############################
+
+
+
+
+
+##### Language - EN
+
+- When we have different algorithms that have similar structures, the Template Method is a good solution.
+With it, we were able to define, on a more macro level, the structure of the algorithm and leave "holes", which will be
+implemented differently by each of the specific implementations.
+
+- Thus, we reuse instead of repeating code, and facilitate possible evolutions, both of the algorithm in 
+its macro structure, as well as the details of the algorithm, since each class has its own separate responsibility.
+
+
+
+
+##### Language - PT-BR
+
+- Quando temos diferentes algoritmos que possuem estruturas parecidas, o Template Method é uma boa solução. 
+Com ele, conseguimos definir, em um nível mais macro, a estrutura do algoritmo e deixar "buracos", que serão 
+implementados de maneira diferente por cada uma das implementações específicas.
+
+- Dessa forma, reutilizamos ao invés de repetirmos código, e facilitamos possíveis evoluções, tanto do algoritmo em
+ sua estrutura macro, quanto dos detalhes do algoritmo, já que cada classe tem sua responsabilidade bem separada.
