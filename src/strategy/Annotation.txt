@@ -2,7 +2,25 @@
 #         STRATEGY           #
 ##############################
 
+
+
+
+
+##### Language - EN
+
 - We use interfaces to use polymorphism in our doing.
 
 - We broke the use of several 'ifs', with that we can invoke a method that according to its 
 instance it can call a method implemented differently than another instance.
+
+
+
+
+
+##### Language - PT-BR
+
+- Usamos interfaces para usar polimorfismo em nossas ações.
+
+- Nós quebramos o uso de vários 'ses', com isso podemos invocar um método que, de acordo com sua
+instância, ele pode chamar um método implementado de maneira diferente de outra instância.
+

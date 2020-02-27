@@ -1,0 +1,28 @@
+###############################
+#   Chain Of Responsibility   #
+###############################
+
+
+
+
+
+##### Language - EN
+
+- The Chain of Responsibility standard fits like a glove when we have a list of commands to be executed according to a specific scenario,
+and we also know the next scenario that should be validated, if the previous one does not satisfy the condition.
+
+- In these cases, the Chain of Responsibility allows us to separate responsibilities into small and lean classes,
+and it also provides a flexible and uncoupled way to put these behaviors back together.
+
+
+
+
+
+##### Language - PT-BR
+
+- O padrão Chain of Responsibility cai como uma luva quando temos uma lista de comandos a serem executados de acordo com algum cenário em específico, 
+e sabemos também qual o próximo cenário que deve ser validado, caso o anterior não satisfaça a condição.
+
+- Nesses casos, o Chain of Responsibility nos possibilita a separação de responsabilidades em classes pequenas e enxutas, 
+e ainda provê uma maneira flexível e desacoplada de juntar esses comportamentos novamente.
+
