@@ -1,6 +1,6 @@
 package decorator;
 
-public class ComplexTaxTest {
+public class ComplexTaxMain {
 	
 	public static void main(String[] args) {
 		System.out.println("--------------------------------------------- Begin Test for Complex Tax");
