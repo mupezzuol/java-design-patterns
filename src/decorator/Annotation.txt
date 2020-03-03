@@ -1,0 +1,28 @@
+##############################
+#         Decorator          #
+##############################
+
+
+
+
+
+##### Language - EN
+
+- In the code example, we want a tax to have another tax in it, that is, a compound tax, that way it would be simple using decorator.
+
+- We decorate tax A with tax B, decorate tax B with tax C, and so on.
+
+- Whenever we realize that we have behaviors that can be composed of behaviors from other classes involved in the same hierarchy,
+as was the case with taxes, which may consist of other taxes. Decorator introduces flexibility in the composition of these behaviors,
+just choose at the moment of instantiation, which instances will be used to perform the work.
+
+
+##### Language - PT-BR
+
+- No exemplo do código, nós queremos que um imposto possa ter outro imposto nele, ou seja, imposto composto, dessa forma ficaria simples usando decorator.
+
+- Decoramos um imposto A com o imposto B, decoramos imposto B com um imposto C, e assim por diante.
+
+- Sempre que percebemos que temos comportamentos que podem ser compostos por comportamentos de outras classes envolvidas em uma mesma hierarquia, 
+como foi o caso dos impostos, que podem ser composto por outros impostos. O Decorator introduz a flexibilidade na composição desses comportamentos, 
+bastando escolher no momento da instanciação, quais instancias serão utilizadas para realizar o trabalho.
