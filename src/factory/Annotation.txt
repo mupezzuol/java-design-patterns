@@ -1,5 +1,5 @@
 ###############################
-#          Builder            #
+#          Factory            #
 ###############################
 
 
@@ -8,15 +8,7 @@
 
 ##### Language - EN
 
-
-- The Builder makes it possible to separate the complexity of creating this object into a specific class for that,
-in addition to making it possible to implement optional attributes more easily.
-
-- Whenever we have a complex object to be created, which has several attributes,
-or that has complicated creation logic, we can hide it all in a Builder.
-
-- In addition to centralizing the creation code and facilitating maintenance, we also make life easier for the classes 
-that need to create this complex class, after all the Builder interface tends to be clearer and easier to use.
+- We generally use a builder when we need to pass various information to the logic that assembles the object.
 
 
 BUILDER X FACTORY
@@ -29,17 +21,13 @@ the creation follows the same line of the object, different from the Builder tha
 + We use a factory when we have to isolate the process of creating an object in one place.
 This factory can figure out how to create the object inside itself, but it usually doesn't need a lot of information to create the object.
 
+
+
+
 ##### Language - PT-BR
 
-- O Builder possibilita a separação da complexidade da criação desse objeto em uma classe específica para isso, 
-além de possibilitar a implementação de atributos opcionais mais facilmente.
+- Geralmente usamos um builder quando precisamos passar diversas informações para a lógica que monta o objeto.
 
-- Sempre que tivermos um objeto complexo de ser criado, que possui diversos atributos, 
-ou que possui uma lógica de criação complicada, podemos esconder tudo isso em um Builder.
-
-- Além de centralizar o código de criação e facilitar a manutenção, ainda facilitamos a vida das classes
- que precisam criar essa classe complexa, afinal a interface do Builder tende a ser mais clara e fácil de ser usada.
- 
 
 BUILDER X FACTORY
 -> São chamados de padrões criacionais, que realizam criação de objetos;
