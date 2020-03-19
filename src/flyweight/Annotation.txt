@@ -1,0 +1,29 @@
+###############################
+#         Flyweight           #
+###############################
+
+
+
+
+
+##### Language - EN
+
+- Flyweight helps us to create objects and pass on the same object, if I wanted to play a song with 5 "fa" notes I use the same object,
+that way we save memory.
+
+- Graphical applications generally make use of this pattern, since they have a lot of repeated objects.
+
+- The JVM itself makes use of a Flyweight internally. When you declare an "int", and repeat the same "int" value in several places,
+it always returns the same instance of that number. It is a good example of implementing the standard.
+
+
+
+##### Language - PT-BR
+
+- Flyweight nos ajuda a criar objetos e repassar o mesmo objeto, caso eu queria tocar uma música com 5 notas "fa" eu uso o mesmo objeto,
+dessa forma economizamos memória.
+
+- Aplicações gráficas geralmente fazem uso desse padrão, já que elas tem muito objeto repetido.
+
+- A própria JVM faz uso de um Flyweight internamente. Quando você declara um "int", e repete o mesmo valor de "int" em vários lugares, 
+ela sempre devolve a mesma instância desse número. É um bom exemplo de implementação do padrão.

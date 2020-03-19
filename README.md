@@ -9,3 +9,5 @@ Project that implements some design patterns using Java 13.
 - State
 - Builder
 - Observer
+- Factory
+- Flyweight
