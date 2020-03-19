@@ -1,0 +1,18 @@
+###############################
+#          Memento            #
+###############################
+
+
+
+
+
+##### Language - EN
+
+- We keep a state of an object, and when we need to consult the history of that object, just look in the history list;
+
+
+
+##### Language - PT-BR
+
+- Guardamos um estado de um objeto, e quando precisarmos consultar o histórico daquele objeto é só buscar na lista de histórico;
+
