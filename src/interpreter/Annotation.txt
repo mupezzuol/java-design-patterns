@@ -1,0 +1,21 @@
+###############################
+#         Interpreter         #
+###############################
+
+
+
+
+
+##### Language - EN
+
+- 
+
+
+##### Language - PT-BR
+
+- Tenho uma arvore, onde eu avalia os nós de baixo para cima, cada nó sabe "de avaliar". 
+Ex: A soma não é dois números, é duas expressões que podem ser qualquer coisa.
+
+- A ideia é ter uma arvore, e essa arvore se "alto" avaliar.
+
+- O padrão Interpreter é geralmente útil para interpretar DSLs (se você não sabe o que é uma DSL.
