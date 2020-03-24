@@ -13,3 +13,4 @@ Project that implements some design patterns using Java 13.
 - Flyweight
 - Memento
 - Interpreter
+- Visitor

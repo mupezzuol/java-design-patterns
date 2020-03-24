@@ -8,7 +8,12 @@
 
 ##### Language - EN
 
-- 
+- I have a tree, where I evaluate the nodes from the bottom up, each node knows "to evaluate".
+Ex: The sum is not two numbers, it is two expressions that can be anything.
+
+- The idea is to have a tree, and that tree is "tall" to evaluate.
+
+- The Interpreter pattern is generally useful for interpreting DSLs (if you don't know what a DSL is.
 
 
 ##### Language - PT-BR
