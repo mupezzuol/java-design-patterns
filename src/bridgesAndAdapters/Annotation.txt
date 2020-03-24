@@ -1,0 +1,109 @@
+###############################
+#           Bridge            #
+###############################
+
+
+
+##### Language - EN
+
+- We have, for example, an external system, like a Google Maps, I need to make my program reach this price, we use a "BRIDGE"
+to get to him;
+
+- It is a "bridge" of one program and another;
+
+- He is very similar to other standards, but we have to understand his 'MOTIVATION', which in this case is:
+- >>> I need a way to get to the other system, I need to get to a place using this 'bridge'
+
+- When you create an interface that the concrete implementation takes you to another system, you are creating a "BRIDGE"
+
+
+##### Language - PT-BR
+
+- Temos por exemplo um sistema externo, como um Google Maps, preciso fazer com que o meu programa chegue até esse caro, usamos uma "PONTE"
+para chegar até ele;
+
+- É uma "ponte" de um programa e outro;
+
+- Ele é bem parecido com outros padrões, porém temos que entender a 'MOTIVAÇÃO' dele, que nesse caso é:
+->>> Eu preciso de um caminho para chegar no outro sistema, preciso chegar em um lugar utilizando essa 'ponte'
+
+- Quando você cria uma interface que a implementação concreta te leva para outro sistema, você está criando uma "BRIDGE"
+
+
+
+
+
+###############################
+#          Adapter            #
+###############################
+
+
+
+##### Language - EN
+
+- When I have an interface that hides legacy code, it 'ADAPTS' the legacy system to my new world, we call it 'ADAPTER'
+
+- It hides the complexity of dealing with a legacy API;
+
+- His implementation is the same as 'Bridge', what changes is 'Motivation', when to use one, when to use the other;
+
+- 'Adapter' it adapts an old interface to new ones, different from the 'Bridge' which is a BRIDGE.
+
+- The Adapter is very useful when we are rewriting a legacy system, for a new system.
+
+
+##### Language - PT-BR
+
+- Quando eu tenho uma interface que esconde um código legado, ela 'ADAPTA' o sistema legado ao meu novo mundo, nós chamamos de 'ADAPTER'
+
+- Ele esconde a complexidade de lidar com uma API legada;
+
+- A implementação dele é igual a do 'Bridge', o que muda é a 'Motivação', quando usar um, quando usar o outro;
+
+- 'Adapter' ele adapta uma interface antiga a interface novas, diferente da 'Bridge' que é uma PONTE.
+
+- O Adapter é muito útil quando estamos reescrevendo um sistema legado, para um sistema novo.  
+
+
+
+
+
+
+###############################
+#      Bridge X Adapter       #
+###############################
+
+
+
+##### Language - EN
+
+- In terms of implementation, none. In both, we create an interface and create an implementation underneath.
+
+- The difference is semantic. The idea of Bridge is precisely to be a bridge in two worlds / systems.
+
+- The idea of the Adapter is to hide some "dirt", or adapt something that is different and does not match the current system.
+
+- It is quite common that the Adapter interface has already been pre-defined and already exists in the system.
+In this situation, the programmer goes there to implement an "adapter" for the old system, in order to fit the existing model.
+
+
+##### Language - PT-BR
+
+- Em termos de implementação, nenhuma. Em ambas, criamos uma interface e criamos uma implementação por baixo.
+
+- A diferença é semântica. A ideia da Bridge é justamente ser uma ponte em dois mundos/sistemas.
+
+- A ideia do Adapter é esconder alguma "sujeira", ou adaptar algo que é diferente e não bate com o sistema atual.
+
+- É bem comum inclusive que a interface do Adapter já tenha sido pré-definida e já até exista no sistema.
+Nessa situação, o programador vai lá para implementar um "adaptador" para o sistema antigo, de forma a caber no modelo já existente.
+
+
+
+
+
+
+
+
+
+

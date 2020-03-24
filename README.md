@@ -14,3 +14,4 @@ Project that implements some design patterns using Java 13.
 - Memento
 - Interpreter
 - Visitor
+- Bridges and Adapters
