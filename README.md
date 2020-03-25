@@ -15,3 +15,4 @@ Project that implements some design patterns using Java 13.
 - Interpreter
 - Visitor
 - Bridges and Adapters
+- Command

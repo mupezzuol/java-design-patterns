@@ -1,0 +1,60 @@
+###############################
+#           Command           #
+###############################
+
+
+
+
+
+##### Language - EN
+
+- Encapsulates a command that will be executed in the future;
+
+- Generally the implementation is the same as we did, 'Command' interface to abstract this, where this interface has a method
+simple to execute, and the class itself is in charge of invoking the right command;
+
+- We created a list of commands to be executed when they are called, to accomplish this, we encapsulate classes that
+execute this command according to their class;
+- >> Class that encapsulates "Finalizes", "Done" etc.
+
+
+
+##### Language - PT-BR
+
+- Encapstula um comando que será executado no futuro;
+
+- Geralmente a implementação é igual ao que fizemos, interface 'Command' para abstrair isso, onde essa interface tem método
+simples de execução, e a própria classe se encarrega de invocar o comando certo;
+
+- Criamos uma lista de comandos para serem executos na hora que forem chamados, para realizar isso, nós encapsulamos classes que 
+executam esse comando de acordo com a sua classe;
+->> Classe que encapsula "Finaliza", "Concluído" etc..
+
+
+
+
+
+###############################
+#     Command X Strategy      #
+###############################
+
+
+##### Language - EN
+
+- Again, in terms of implementation, they are very similar, as they depend on interfaces.
+
+- The idea of Command is to abstract a command that must be executed, as it is not possible to execute it at that moment
+  (because we need to put it in a queue or something).
+
+- In Strategy, the idea is that you have a strategy (an algorithm) to solve a problem
+
+
+
+##### Language - PT-BR
+
+- Novamente, em termos de implementação, eles são bem parecidos, pois dependem de interfaces.
+
+- A ideia do Command é abstrair um comando que deve ser executado, pois não é possível executá-lo naquele momento
+ (pois precisamos por em uma fila ou coisa do tipo).
+
+- Já no Strategy, a ideia é que você tenha uma estratégia (um algoritmo) para resolver um problema

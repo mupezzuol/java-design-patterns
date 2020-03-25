@@ -8,12 +8,12 @@
 
 ##### Language - EN
 
-- 
+- It is common to use it when I have a tree and I want to navigate through that tree and do something, like for example
+  data structure, print results.
 
 
 ##### Language - PT-BR
 
 - É comum utilizar ele quando eu tenho uma arvore e quero navegar por essa arvore e fazer alguma coisa, como por exemplo
  estrutura de dados, imprimir resultados.
-
-- 
+ 
