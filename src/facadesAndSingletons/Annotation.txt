@@ -1,0 +1,76 @@
+###############################
+#           Facade            #
+###############################
+
+
+
+
+
+##### Language - EN
+
+- We created a "Facade" to abstract complex implementations, the external system instead of knowing several classes of my system,
+he will only know the 'Facade', that way it will be easier to use.
+
+- A Facede serves as a single front for the services provided by one or more sub-systems,
+  providing a simpler way for your consumption.
+
+##### Language - PT-BR
+
+- Nós criamos uma "Fachada" para abstrair implementações complexas, o sistema externa ao invés dele conhecer várias classes do meu sistema,
+ele irá conhecer apenas a 'Fachada', dessa forma facilita na utilização.
+
+- Uma Facede serve como uma frente única para os serviços disponibilizados por um ou mais sub-sistemas,
+ provendo uma maneira mais simples para o seu consumo.
+
+
+
+###############################
+#         Singletons          #
+###############################
+
+
+
+
+
+##### Language - EN
+
+- It is the creation of a single instance for our entire application, it is as if it were a global object;
+
+- In my system, there will be a single instance of that object;
+
+
+##### Language - PT-BR
+
+- É a criação de uma única instancia para a nossa apliação toda, é como se fosse um objeto global;
+
+- No meu sistema, terá uma única instancia desse objeto;
+
+
+
+
+
+###############################
+#    Weaknesses X Strong      #
+###############################
+
+
+
+##### Language - EN
+
+- Singleton is the same problem that we have when using a global variable;
+
+- Facede we have a problem of our class being immense, with many things in it;
+
+
+##### Language - PT-BR
+
+- Singleton é o mesmo problema que temos quando usamos uma variavel global;
+
+- Facede temos um problema da nossa classe ficar imensa, com muitas coisas nela;
+
+
+
+
+
+
+

@@ -16,3 +16,4 @@ Project that implements some design patterns using Java 13.
 - Visitor
 - Bridges and Adapters
 - Command
+- Facades and Singletons
